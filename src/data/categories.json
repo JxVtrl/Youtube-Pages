@@ -1,0 +1,60 @@
+{
+    "categories": [
+        {
+            "id": 0,
+            "name": "Tudo"
+        },
+        {
+            "id": 1,
+            "name": "Música"
+        },
+        {
+            "id": 2,
+            "name": "Podcast"
+        },
+        {
+            "id": 3,
+            "name": "Mixes"
+        },
+        {
+            "id": 4,
+            "name": "Ao vivo"
+        },
+        {
+            "id": 5,
+            "name": "Jogos"
+        },
+        {
+            "id": 6,
+            "name": "Motocicletas"
+        },
+        {
+            "id": 7,
+            "name": "Alimentação"
+        },
+        {
+            "id": 8,
+            "name": "Comédia"
+        },
+        {
+            "id": 9,
+            "name": "Domingo Espetacular"
+        },
+        {
+            "id": 10,
+            "name": "Felipe Neto"
+        },
+        {
+            "id": 11,
+            "name": "Boca do 09"
+        },
+        {
+            "id": 12,
+            "name": "Vitral é gay"
+        },
+        {
+            "id": 13,
+            "name": "Flow Podcast"
+        }
+    ]
+}

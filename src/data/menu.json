@@ -1,0 +1,24 @@
+{
+    "items": [
+        {
+            "id": 0,
+            "name": "Início",
+            "class": "fa-solid fa-house fa-lg"
+        },
+        {
+            "id": 1,
+            "name": "Explorar",
+            "class": "fa-regular fa-compass fa-lg"
+        },
+        {            
+            "id": 2,
+            "name": "Shorts",
+            "class": "fa-solid fa-film fa-lg"
+        },
+        {            
+            "id": 3,
+            "name": "Inscrições",
+            "class": "fa-solid fa-inbox fa-lg" 
+        }
+    ]
+}
